@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "name": "Marketing",
+      "teams": [
+        { "label": "Shivanshu", "value": "123456" },
+        { "label": "Ram", "value": "123456" }
+      ],
+      "plans": [
+        {
+          "plan": "Google Drive",
+          "pointer": [
+            { "text": "pointer 1", "status": false },
+            { "text": "pointer 1", "status": false },
+            { "text": "pointer 1", "status": false }
+          ]
+        },
+        {
+          "plan": "WordPress",
+          "pointer": [
+            { "text": "pointer 1", "status": false },
+            { "text": "pointer 1", "status": false },
+            { "text": "pointer 1", "status": false }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "teams": [{ "label": "Akash", "value": "V512" }],
+      "plans": [
+        {
+          "plan": "Google Drive",
+          "pointer": [
+            { "text": "pointer 1", "status": false },
+            { "text": "pointer 1", "status": false },
+            { "text": "pointer 1", "status": false }
+          ]
+        }
+      ]
+    }
+  ],
+  "members": [
+    { "label": "Shivanshu", "value": "V122" },
+    { "label": "Raju", "value": "V152" },
+    { "label": "Shyam", "value": "V126" },
+    { "label": "BabuBhaiya", "value": "V512" }
+  ]
+}
